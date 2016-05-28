@@ -1,0 +1,6 @@
+{
+  "name": "Basic-template",
+  "tagline": "This is a basic startup template that I use when creating a new project.",
+  "body": "# Basic HTML project Template\r\n\r\nThis is a basic startup template that I use when creating a new project.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
